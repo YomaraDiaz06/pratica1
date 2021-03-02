@@ -1,10 +1,10 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-import Navigation from "../components/Navigation";
+//import styles from '../styles/Home.module.css'
+
 
 export default function Home() {
   return (
-      <div className={styles.container}>
+      <div></div>
+      /*<div className={styles.container}>
         <header>
           <h1>TEACHlearn</h1>
         </header>
@@ -14,6 +14,6 @@ export default function Home() {
           <p>Contáctanos</p>
           <p>Privacidad</p>
         </footer>
-      </div>
+      </div>*/
   )
 }
